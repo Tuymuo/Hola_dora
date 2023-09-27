@@ -1,2 +1,6 @@
 # Hola_dora
+
+JOSUE GRANIZO VERA : JEFE
+
+DARIA SIDELNIKOVA : M1
  
